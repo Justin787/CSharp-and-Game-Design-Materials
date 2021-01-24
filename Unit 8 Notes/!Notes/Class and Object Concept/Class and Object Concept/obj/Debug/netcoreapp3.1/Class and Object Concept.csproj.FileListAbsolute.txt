@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\bin\Debug\netcoreapp3.1\Class and Object Concept.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\bin\Debug\netcoreapp3.1\Class and Object Concept.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\bin\Debug\netcoreapp3.1\Class and Object Concept.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\bin\Debug\netcoreapp3.1\Class and Object Concept.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\bin\Debug\netcoreapp3.1\Class and Object Concept.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\bin\Debug\netcoreapp3.1\Class and Object Concept.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Class and Object Concept\Class and Object Concept\obj\Debug\netcoreapp3.1\Class and Object Concept.genruntimeconfig.cache

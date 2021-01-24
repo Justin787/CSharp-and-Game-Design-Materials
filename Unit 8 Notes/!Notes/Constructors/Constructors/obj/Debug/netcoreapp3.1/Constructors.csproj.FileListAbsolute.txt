@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\!Notes\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
