@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\bin\Debug\netcoreapp3.1\If Statements.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\bin\Debug\netcoreapp3.1\If Statements.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\bin\Debug\netcoreapp3.1\If Statements.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\bin\Debug\netcoreapp3.1\If Statements.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\bin\Debug\netcoreapp3.1\If Statements.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\bin\Debug\netcoreapp3.1\If Statements.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\If Statements\If Statements\obj\Debug\netcoreapp3.1\If Statements.genruntimeconfig.cache
