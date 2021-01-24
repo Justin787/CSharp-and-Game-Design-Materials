@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Substring, ToUpper, ToLower, IndexOf, Insert/1.0.0": {
+        "runtime": {
+          "Substring, ToUpper, ToLower, IndexOf, Insert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Substring, ToUpper, ToLower, IndexOf, Insert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

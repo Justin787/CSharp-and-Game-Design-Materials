@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\bin\Debug\netcoreapp3.1\String Indexing and String Replace.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\bin\Debug\netcoreapp3.1\String Indexing and String Replace.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\bin\Debug\netcoreapp3.1\String Indexing and String Replace.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\bin\Debug\netcoreapp3.1\String Indexing and String Replace.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\bin\Debug\netcoreapp3.1\String Indexing and String Replace.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\bin\Debug\netcoreapp3.1\String Indexing and String Replace.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Indexing and String Replace\String Indexing and String Replace\obj\Debug\netcoreapp3.1\String Indexing and String Replace.genruntimeconfig.cache

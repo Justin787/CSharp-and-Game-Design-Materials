@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\bin\Debug\netcoreapp3.1\String Variable Notes.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\bin\Debug\netcoreapp3.1\String Variable Notes.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\bin\Debug\netcoreapp3.1\String Variable Notes.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\bin\Debug\netcoreapp3.1\String Variable Notes.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\bin\Debug\netcoreapp3.1\String Variable Notes.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\bin\Debug\netcoreapp3.1\String Variable Notes.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\!Notes\String Variable Notes\String Variable Notes\obj\Debug\netcoreapp3.1\String Variable Notes.genruntimeconfig.cache
