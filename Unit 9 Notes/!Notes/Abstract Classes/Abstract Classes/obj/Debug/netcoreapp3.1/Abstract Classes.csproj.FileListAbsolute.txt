@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 9\!Notes\Abstract Classes\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.genruntimeconfig.cache
