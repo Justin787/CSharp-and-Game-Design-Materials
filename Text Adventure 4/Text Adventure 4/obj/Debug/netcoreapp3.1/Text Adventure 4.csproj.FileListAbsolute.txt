@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\bin\Debug\netcoreapp3.1\Text Adventure 4.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\bin\Debug\netcoreapp3.1\Text Adventure 4.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\bin\Debug\netcoreapp3.1\Text Adventure 4.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\bin\Debug\netcoreapp3.1\Text Adventure 4.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\bin\Debug\netcoreapp3.1\Text Adventure 4.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\bin\Debug\netcoreapp3.1\Text Adventure 4.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Adventure 4\Text Adventure 4\obj\Debug\netcoreapp3.1\Text Adventure 4.genruntimeconfig.cache

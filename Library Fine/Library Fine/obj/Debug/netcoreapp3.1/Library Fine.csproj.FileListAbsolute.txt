@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\bin\Debug\netcoreapp3.1\Library Fine.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\bin\Debug\netcoreapp3.1\Library Fine.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\bin\Debug\netcoreapp3.1\Library Fine.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\bin\Debug\netcoreapp3.1\Library Fine.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\bin\Debug\netcoreapp3.1\Library Fine.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\bin\Debug\netcoreapp3.1\Library Fine.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Library Fine\Library Fine\obj\Debug\netcoreapp3.1\Library Fine.genruntimeconfig.cache

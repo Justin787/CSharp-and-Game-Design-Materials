@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\bin\Debug\netcoreapp3.1\Text Message Coder.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\bin\Debug\netcoreapp3.1\Text Message Coder.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\bin\Debug\netcoreapp3.1\Text Message Coder.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\bin\Debug\netcoreapp3.1\Text Message Coder.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\bin\Debug\netcoreapp3.1\Text Message Coder.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\bin\Debug\netcoreapp3.1\Text Message Coder.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 2\Text Message Coder\Text Message Coder\obj\Debug\netcoreapp3.1\Text Message Coder.genruntimeconfig.cache
