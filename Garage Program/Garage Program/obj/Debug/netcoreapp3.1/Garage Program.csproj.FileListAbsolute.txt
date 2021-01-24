@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\bin\Debug\netcoreapp3.1\Garage Program.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\bin\Debug\netcoreapp3.1\Garage Program.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\bin\Debug\netcoreapp3.1\Garage Program.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\bin\Debug\netcoreapp3.1\Garage Program.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\bin\Debug\netcoreapp3.1\Garage Program.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\bin\Debug\netcoreapp3.1\Garage Program.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Garage Program\Garage Program\obj\Debug\netcoreapp3.1\Garage Program.genruntimeconfig.cache

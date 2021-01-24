@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\bin\Debug\netcoreapp3.1\Test Scores Program.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\bin\Debug\netcoreapp3.1\Test Scores Program.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\bin\Debug\netcoreapp3.1\Test Scores Program.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\bin\Debug\netcoreapp3.1\Test Scores Program.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\bin\Debug\netcoreapp3.1\Test Scores Program.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\bin\Debug\netcoreapp3.1\Test Scores Program.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Test Scores Program\Test Scores Program\obj\Debug\netcoreapp3.1\Test Scores Program.genruntimeconfig.cache

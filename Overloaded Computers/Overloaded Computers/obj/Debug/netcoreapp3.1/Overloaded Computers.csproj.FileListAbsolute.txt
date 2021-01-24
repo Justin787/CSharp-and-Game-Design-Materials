@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\bin\Debug\netcoreapp3.1\Overloaded Computers.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\bin\Debug\netcoreapp3.1\Overloaded Computers.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\bin\Debug\netcoreapp3.1\Overloaded Computers.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\bin\Debug\netcoreapp3.1\Overloaded Computers.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\bin\Debug\netcoreapp3.1\Overloaded Computers.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\bin\Debug\netcoreapp3.1\Overloaded Computers.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Overloaded Computers\Overloaded Computers\obj\Debug\netcoreapp3.1\Overloaded Computers.genruntimeconfig.cache

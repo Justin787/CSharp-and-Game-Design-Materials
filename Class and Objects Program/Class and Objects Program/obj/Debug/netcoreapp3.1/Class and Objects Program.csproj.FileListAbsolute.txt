@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\bin\Debug\netcoreapp3.1\Class and Objects Program.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\bin\Debug\netcoreapp3.1\Class and Objects Program.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\bin\Debug\netcoreapp3.1\Class and Objects Program.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\bin\Debug\netcoreapp3.1\Class and Objects Program.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\bin\Debug\netcoreapp3.1\Class and Objects Program.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\bin\Debug\netcoreapp3.1\Class and Objects Program.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 8\Class and Objects Program\Class and Objects Program\obj\Debug\netcoreapp3.1\Class and Objects Program.genruntimeconfig.cache
