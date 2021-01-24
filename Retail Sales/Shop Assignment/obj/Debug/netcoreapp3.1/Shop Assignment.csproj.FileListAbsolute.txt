@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\bin\Debug\netcoreapp3.1\Shop Assignment.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\bin\Debug\netcoreapp3.1\Shop Assignment.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\bin\Debug\netcoreapp3.1\Shop Assignment.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\bin\Debug\netcoreapp3.1\Shop Assignment.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\bin\Debug\netcoreapp3.1\Shop Assignment.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\bin\Debug\netcoreapp3.1\Shop Assignment.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Shop Assignment\Shop Assignment\obj\Debug\netcoreapp3.1\Shop Assignment.genruntimeconfig.cache

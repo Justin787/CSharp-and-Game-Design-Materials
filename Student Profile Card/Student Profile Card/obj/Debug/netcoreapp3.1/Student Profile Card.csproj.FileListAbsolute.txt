@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\bin\Debug\netcoreapp3.1\Student Profile Card.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\bin\Debug\netcoreapp3.1\Student Profile Card.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\bin\Debug\netcoreapp3.1\Student Profile Card.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\bin\Debug\netcoreapp3.1\Student Profile Card.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\bin\Debug\netcoreapp3.1\Student Profile Card.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\bin\Debug\netcoreapp3.1\Student Profile Card.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 1\Student Profile Card\Student Profile Card\obj\Debug\netcoreapp3.1\Student Profile Card.genruntimeconfig.cache
