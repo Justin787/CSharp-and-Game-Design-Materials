@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\bin\Debug\netcoreapp3.1\Mini Games.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\bin\Debug\netcoreapp3.1\Mini Games.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\bin\Debug\netcoreapp3.1\Mini Games.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\bin\Debug\netcoreapp3.1\Mini Games.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\bin\Debug\netcoreapp3.1\Mini Games.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\bin\Debug\netcoreapp3.1\Mini Games.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Mini Games\Mini Games\obj\Debug\netcoreapp3.1\Mini Games.genruntimeconfig.cache

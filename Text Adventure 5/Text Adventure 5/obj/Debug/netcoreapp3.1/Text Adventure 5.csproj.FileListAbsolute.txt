@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\bin\Debug\netcoreapp3.1\Text Adventure 5.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\bin\Debug\netcoreapp3.1\Text Adventure 5.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\bin\Debug\netcoreapp3.1\Text Adventure 5.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\bin\Debug\netcoreapp3.1\Text Adventure 5.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\bin\Debug\netcoreapp3.1\Text Adventure 5.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\bin\Debug\netcoreapp3.1\Text Adventure 5.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\Text Adventure 5\Text Adventure 5\obj\Debug\netcoreapp3.1\Text Adventure 5.genruntimeconfig.cache

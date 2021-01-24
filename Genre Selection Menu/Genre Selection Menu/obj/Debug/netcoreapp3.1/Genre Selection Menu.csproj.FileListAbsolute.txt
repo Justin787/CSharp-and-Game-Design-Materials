@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\bin\Debug\netcoreapp3.1\Genre Selection Menu.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\bin\Debug\netcoreapp3.1\Genre Selection Menu.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\bin\Debug\netcoreapp3.1\Genre Selection Menu.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\bin\Debug\netcoreapp3.1\Genre Selection Menu.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\bin\Debug\netcoreapp3.1\Genre Selection Menu.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\bin\Debug\netcoreapp3.1\Genre Selection Menu.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\Genre Selection Menu\Genre Selection Menu\obj\Debug\netcoreapp3.1\Genre Selection Menu.genruntimeconfig.cache
