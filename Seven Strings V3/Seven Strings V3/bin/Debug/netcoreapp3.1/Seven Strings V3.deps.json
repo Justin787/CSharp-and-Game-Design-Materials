@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Seven Strings V3/1.0.0": {
+        "runtime": {
+          "Seven Strings V3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seven Strings V3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

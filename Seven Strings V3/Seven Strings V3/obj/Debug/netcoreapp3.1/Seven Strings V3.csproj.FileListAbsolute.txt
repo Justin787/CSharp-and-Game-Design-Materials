@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\bin\Debug\netcoreapp3.1\Seven Strings V3.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\bin\Debug\netcoreapp3.1\Seven Strings V3.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\bin\Debug\netcoreapp3.1\Seven Strings V3.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\bin\Debug\netcoreapp3.1\Seven Strings V3.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\bin\Debug\netcoreapp3.1\Seven Strings V3.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\bin\Debug\netcoreapp3.1\Seven Strings V3.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 7\Seven Strings V3\Seven Strings V3\obj\Debug\netcoreapp3.1\Seven Strings V3.genruntimeconfig.cache
