@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\bin\Debug\netcoreapp3.1\if - else.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\bin\Debug\netcoreapp3.1\if - else.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\bin\Debug\netcoreapp3.1\if - else.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\bin\Debug\netcoreapp3.1\if - else.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\bin\Debug\netcoreapp3.1\if - else.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\bin\Debug\netcoreapp3.1\if - else.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\if - else\if - else\obj\Debug\netcoreapp3.1\if - else.genruntimeconfig.cache
