@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\bin\Debug\netcoreapp3.1\While Loops.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 3\!Notes\While Loops\While Loops\obj\Debug\netcoreapp3.1\While Loops.genruntimeconfig.cache
