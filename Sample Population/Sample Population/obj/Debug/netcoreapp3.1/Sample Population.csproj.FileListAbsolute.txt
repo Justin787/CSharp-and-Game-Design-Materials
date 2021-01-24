@@ -1,0 +1,13 @@
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\bin\Debug\netcoreapp3.1\Sample Population.exe
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\bin\Debug\netcoreapp3.1\Sample Population.deps.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\bin\Debug\netcoreapp3.1\Sample Population.runtimeconfig.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\bin\Debug\netcoreapp3.1\Sample Population.runtimeconfig.dev.json
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\bin\Debug\netcoreapp3.1\Sample Population.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\bin\Debug\netcoreapp3.1\Sample Population.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.AssemblyInfo.cs
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.dll
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.pdb
+C:\Users\justi\Desktop\C# and Game Design\Unit 4\Sample Population\Sample Population\obj\Debug\netcoreapp3.1\Sample Population.genruntimeconfig.cache
